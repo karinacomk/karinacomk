@@ -1,6 +1,7 @@
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
-### Hi there 👋
+### Olá! 👋
+
+Bem-vindo ao meu GitHub!
 
 <!--
 **karinacomk/karinacomk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
